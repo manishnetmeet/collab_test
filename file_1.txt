@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 User1Folder1file1 .
 this is user1
+=======
+User2folder2File1 .
+   this is written by user 2
+
+this is manish
